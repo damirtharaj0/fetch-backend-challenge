@@ -98,10 +98,3 @@ This project is a REST API to track points and point transactions for a single u
       "MILLER COORS": 5300
     }
     ```
-
-## Tools and Libraries
-
-- **Express.js**: For creating the API routes.
-- **dotenv**: For managing environment variables.
-- **nodemon**: To auto-reload the server during development (use `npm run dev` for this).
-- **Postman/curl**: To test the API endpoints.
