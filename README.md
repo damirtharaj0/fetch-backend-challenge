@@ -20,7 +20,7 @@ This project is a REST API to track points and point transactions for a single u
 2. **Navigate to the project directory**:
 
     ```bash
-    cd fetch-backend-internship
+    cd fetch-backend-challenge
     ```
 
 3. **Install dependencies**:
