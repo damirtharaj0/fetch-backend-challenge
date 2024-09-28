@@ -14,7 +14,7 @@ This project is a REST API to track points and point transactions for a single u
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/damirtharaj0/fetch-backend-internship.git
+    git clone https://github.com/damirtharaj0/fetch-backend-challenge.git
     ```
 
 2. **Navigate to the project directory**:
