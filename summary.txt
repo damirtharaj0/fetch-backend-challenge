@@ -1,0 +1,8 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose Node.js for its high performance in handling concurrent requests, which is important for building APIs. I also used express.js for its lightweight nature and ability to quickly spin up a server. I used SQLite as the database due to its quick setup and support for relational data storage, which suited the task of managing payer information. For the ORM, I used Drizzle because its SQL-like syntax simplifies writing database queries.
+
+2. What are the advantages and disadvantages of your solution?
+The main advantage of my solution is that it uses a database, allowing data to persist even if the program terminates. However, I am currently using SQLite for simplicity. In a real-world application, I would use a more robust database server like PostgreSQL for better scalability.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+One of my favorite projects has been developing Konoha Notes, an AI-powered note-taking application. It allows users to record and transcribe lectures, with AI-generated notes created based on the transcripts. Currently, I’m working on implementing a Retrieval Augmented Generation (RAG) system, which will enable users to ask questions based on the lecture content. The challenge has been integrating multiple technologies, like real-time transcription and RAG.
